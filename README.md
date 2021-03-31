@@ -85,8 +85,6 @@ make leaksC
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Author: <a href="https://github.com/mayank-pq2q4" target="_blank">{{Mayank}}</a>
-
-&#xa0;
+Author: <a href="https://github.com/mayank-pq2q4" target="_blank">Mayank</a>
 
 <a href="#top">Back to top</a>
